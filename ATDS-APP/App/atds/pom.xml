@@ -6,10 +6,9 @@
 
   <groupId>com.atds.project</groupId>
   <artifactId>atds</artifactId>
-  <version>y</version>
+  <version>1.02</version>
 
   <name>atds</name>
-  <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
   <properties>
