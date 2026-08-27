@@ -5,7 +5,7 @@ A multi-service desktop application that retrieves real-time Near-Earth Object (
 
 The system uses a **Python FastAPI service** as an API layer between NASA's NEO API and a **Java application**, demonstrating REST communication, JSON processing, external API integration, and service separation.
 
-## Architecture- Yes i used ai for the text display of the architecture!
+## Architecture- Yes I used ai for the text display below of the architecture!
 
                     NASA NEO API
                          │
