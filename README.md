@@ -1,5 +1,4 @@
 # Asteroid-Threat-Detection-System
-# Asteroid Threat Detection System
 
 A multi-service desktop application that retrieves real-time Near-Earth Object (NEO) data from NASA and presents asteroid threat information through a Java Swing interface.
 
