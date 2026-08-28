@@ -125,10 +125,8 @@ cd ATDS-APP/api-services
 ```
 
 Install the Python dependencies:
+FastAPI-Uvicorn-Pydantic-Dotenv
 
-```bash
-pip install -r requirements.txt
-```
 
 Start the FastAPI server:
 
